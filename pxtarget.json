@@ -28,7 +28,8 @@
         "libs/servo",
         "libs/storage",
         "libs/datalogger",
-        "libs/serial"
+        "libs/serial",
+        "libs/powerfunctions"
     ],
     "serial": {
         "useHF2": true,

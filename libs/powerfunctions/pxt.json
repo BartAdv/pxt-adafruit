@@ -1,0 +1,16 @@
+{
+    "name": "powerfunctions",
+    "description": "LEGO PowerFunctions",
+    "files": [
+        "enums.d.ts",
+        "README.md",
+        "pf.cpp",
+        "pf.h",
+        "shims.d.ts",
+        "ns.ts"
+    ],
+    "public": true,
+    "dependencies": {
+        "core": "file:../core"
+    }
+}

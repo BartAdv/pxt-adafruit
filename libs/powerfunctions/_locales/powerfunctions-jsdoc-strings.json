@@ -1,0 +1,7 @@
+{
+  "powerfunctions": "LEGO PowerFunctions",
+  "powerfunctions.brake": "Brake then float.\nThe motor's power is quickly reversed and thus the motor will stop abruptly.",
+  "powerfunctions.leeway": "Float a motor to stop.\nThe motor's power is switched off and thus the motor will roll to a stop.",
+  "powerfunctions.moveBackward": "Move a motor backward.",
+  "powerfunctions.moveForward": "Move a motor forward."
+}

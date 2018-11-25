@@ -1,0 +1,16 @@
+{
+  "PowerFunctionsMotor.Blue1|block": "blue | channel 1",
+  "PowerFunctionsMotor.Blue2|block": "blue | channel 2",
+  "PowerFunctionsMotor.Blue3|block": "blue | channel 3",
+  "PowerFunctionsMotor.Blue4|block": "blue | channel 4",
+  "PowerFunctionsMotor.Red1|block": "red | channel 1",
+  "PowerFunctionsMotor.Red2|block": "red | channel 2",
+  "PowerFunctionsMotor.Red3|block": "red | channel 3",
+  "PowerFunctionsMotor.Red4|block": "red | channel 4",
+  "powerfunctions.brake|block": "brake| motor %motor",
+  "powerfunctions.leeway|block": "float | motor %motor | to stop",
+  "powerfunctions.moveBackward|block": "move backward | with motor %motor at speed %speed",
+  "powerfunctions.moveForward|block": "move forward | with motor %motor at speed %speed",
+  "powerfunctions|block": "powerfunctions",
+  "{id:category}Powerfunctions": "Powerfunctions"
+}
